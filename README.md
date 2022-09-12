@@ -1,4 +1,4 @@
-### こんにちは Kon'nichiwa, I'm Ken Rod👋
+###I'm Ken Rod👋
 
 - 🔭 I’m currently working on my E-profile/portfolio
 - 🌱 I’m currently learning C langguage & Web Development
