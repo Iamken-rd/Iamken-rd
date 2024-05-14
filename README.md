@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Programming & Web Development
 - 💬 Ask me about anything and I'll try to help as much as I can
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: When I like a musci I tend to listen it till it doesnt sound good to me already.
+
